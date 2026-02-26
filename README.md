@@ -93,9 +93,9 @@ The app follows **MVVM (Model-View-ViewModel)**:
 1. Clone repository:
 ```bash
 git clone https://github.com/leoanranjit/deliveroo
-cd DeliveryTrack
+cd Deliveroo
 ```
-2. Open `DeliveryTrack.xcodeproj` in Xcode.  
+2. Open `Deliveroo.xcodeproj` in Xcode.  
 3. Select target device or simulator (supports iPhone SE → iPhone 15 Pro Max).  
 4. Build & run (`Cmd+R`).
 

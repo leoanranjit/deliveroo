@@ -2,7 +2,7 @@
 //  DeliverooApp.swift
 //  Deliveroo
 //
-//  Created by Aarya Rajbhandari on 26/2/2026.
+//  Created by Leoan Ranjit on 26/2/2026.
 //
 
 import SwiftUI
@@ -11,7 +11,6 @@ import SwiftUI
 struct DeliverooApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
         }
     }
 }
